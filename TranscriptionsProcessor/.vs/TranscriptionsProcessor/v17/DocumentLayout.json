@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23CA2D75-B2FD-41DA-BC6A-3670E8A948DB}|TranscriptionsProcessor.csproj|c:\\users\\druvi\\downloads\\dc project\\meeting-insights\\transcriptionsprocessor\\services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CA2D75-B2FD-41DA-BC6A-3670E8A948DB}|TranscriptionsProcessor.csproj|solutionrelative:services\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CA2D75-B2FD-41DA-BC6A-3670E8A948DB}|TranscriptionsProcessor.csproj|c:\\users\\druvi\\downloads\\dc project\\meeting-insights\\transcriptionsprocessor\\controllers\\jitsiwebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CA2D75-B2FD-41DA-BC6A-3670E8A948DB}|TranscriptionsProcessor.csproj|solutionrelative:controllers\\jitsiwebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CA2D75-B2FD-41DA-BC6A-3670E8A948DB}|TranscriptionsProcessor.csproj|c:\\users\\druvi\\downloads\\dc project\\meeting-insights\\transcriptionsprocessor\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CA2D75-B2FD-41DA-BC6A-3670E8A948DB}|TranscriptionsProcessor.csproj|solutionrelative:applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGptService.cs",
+              "DocumentMoniker": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\Services\\ChatGptService.cs",
+              "RelativeDocumentMoniker": "Services\\ChatGptService.cs",
+              "ToolTip": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\Services\\ChatGptService.cs",
+              "RelativeToolTip": "Services\\ChatGptService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvzQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:59:08.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JitsiWebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\Controllers\\JitsiWebhookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JitsiWebhookController.cs",
+              "ToolTip": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\Controllers\\JitsiWebhookController.cs",
+              "RelativeToolTip": "Controllers\\JitsiWebhookController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:58:18.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\druvi\\Downloads\\DC Project\\Meeting-Insights\\TranscriptionsProcessor\\ApplicationDbContext .cs",
+              "RelativeToolTip": "ApplicationDbContext .cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:56:59.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "Get",
+    "RelativePath": "api/JitsiWebhook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TranscriptionsProcessor.WeatherForecast, TranscriptionsProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  },
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "GetActionItems",
+    "RelativePath": "api/JitsiWebhook/action-items/{meetingId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meetingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "GetSummaryAndDecisions",
+    "RelativePath": "api/JitsiWebhook/decisions-summary/{meetingId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meetingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "GetMeetingDetails",
+    "RelativePath": "api/JitsiWebhook/meeting/{meetingId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meetingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "GetMeetingsByParticipant",
+    "RelativePath": "api/JitsiWebhook/participant-meetings/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "ProcessWebhookPayload",
+    "RelativePath": "api/JitsiWebhook/transcriptions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranscriptionsProcessor.Controllers.JitsiWebhookController",
+    "Method": "GetTranscriptions",
+    "RelativePath": "api/JitsiWebhook/transcriptions/{meetingId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meetingId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+@TranscriptionsProcessor_HostAddress = http://localhost:5258
+
+GET {{TranscriptionsProcessor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

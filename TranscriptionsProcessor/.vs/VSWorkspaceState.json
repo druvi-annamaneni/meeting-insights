@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\DTOs",
+    "\\Entities",
+    "\\Migrations",
+    "\\obj",
+    "\\Properties",
+    "\\Services",
+    "\\WebhookModels"
+  ],
+  "SelectedNode": "\\TranscriptionsProcessor.sln",
+  "PreviewInSolutionExplorer": false
+}
