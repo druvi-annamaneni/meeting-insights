@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meeting Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin: 0;
+            color: #4CAF50;
+        }
+
+        .card {
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #fafafa;
+        }
+
+        .section-title {
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        #conversation-input {
+            width: 100%;
+            height: 120px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+            box-sizing: border-box;
+            resize: vertical;
+        }
+
+        .analyze-btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .analyze-btn:hover {
+            background-color: #45a049;
+        }
+
+        .summary-text, #action-items, #deadlines {
+            font-size: 14px;
+            line-height: 1.5;
+            color: #333;
+        }
+
+        .action-item {
+            margin-bottom: 10px;
+            padding: 10px;
+            background: #f1f8e9;
+            border: 1px solid #c5e1a5;
+            border-radius: 4px;
+        }
+
+        .priority {
+            font-weight: bold;
+            color: #e53935;
+        }
+
+        .deadline-warning {
+            color: #ff5722;
+            font-weight: bold;
+        }
+
+        .deadline {
+            color: #388e3c;
+            font-weight: bold;
+        }
+
+        .speaker {
+            font-style: italic;
+            color: #616161;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Meeting Minutes</h1>
+        </div>
+
+        <div class="card input-section">
+            <h2 class="section-title">Enter Conversation</h2>
+            <textarea id="conversation-input" placeholder="Type or paste your conversation here..."></textarea>
+            <button class="analyze-btn" onclick="analyzeConversation()">Analyze</button>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Summary Generator</h2>
+            <div class="summary-text" id="summary"></div>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Action Items Generator</h2>
+            <div id="action-items"></div>
+        </div>
+
+        <div class="card">
+            <h2 class="section-title">Important Deadlines</h2>
+            <div id="deadlines"></div>
+        </div>
+    </div>
+
+    <script>
+        async function analyzeConversation() {
+            const conversation = document.getElementById('conversation-input').value;
+            if (!conversation.trim()) {
+                alert('Please enter a conversation');
+                return;
+            }
+
+            try {
+                document.querySelector('.analyze-btn').textContent = 'Analyzing...';
+                
+                const response = await fetch('/analyze', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ conversation }),
+                });
+                
+                const results = await response.json();
+                
+                if (results.error) {
+                    alert('Analysis failed: ' + results.error);
+                    return;
+                }
+
+                // Show results
+                document.getElementById('summary').innerHTML = results.summary;
+
+                document.getElementById('action-items').innerHTML = results.actionItems
+                    .map(item => `
+                        <div class="action-item">
+                            <span class="action-type">${item.type}</span>
+                            <p>${item.activity}</p>
+                            <div class="priority">Priority: ${item.priority}/5</div>
+                            ${item.has_deadline ? '<div class="deadline-warning">⚠️ Has Deadline</div>' : ''}
+                            <div class="speaker">Speaker: ${item.speaker}</div>
+                        </div>
+                    `).join('');
+
+                document.getElementById('deadlines').innerHTML = results.deadlines.length > 0 ?
+                    results.deadlines
+                        .map(deadline => `
+                            <div class="action-item">
+                                <p>${deadline}</p>
+                                <div class="deadline">⏰ Important Deadline</div>
+                            </div>
+                        `).join('') :
+                    '<p>No specific deadlines mentioned</p>';
+                
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred during analysis');
+            } finally {
+                document.querySelector('.analyze-btn').textContent = 'Analyze';
+            }
+        }
+    </script>
+</body>
+</html>

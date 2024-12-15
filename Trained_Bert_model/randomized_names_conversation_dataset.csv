@@ -1,0 +1,501 @@
+Speaker,Text,Actionable Words,Dates,Context
+Isabella,"During the homework, there will be a standup on no specific date.",Homework,NULL,standup
+Sarah,A training is set to occur on 04-05-2025 related to the deliverable.,Deliverable,04-05-2025,training
+Emma,The standup is planned for no specific date during the plan.,Plan,NULL,standup
+Isabella,"During the proposal, there will be a deployment on no specific date.",Proposal,NULL,deployment
+Chris,The deadline is planned for no specific date during the review.,Review,NULL,deadline
+James,"During the task, there will be a testing on 07-12-2024.",Task,07-12-2024,testing
+John,"During the proposal, there will be a implementation on 02-13-2024.",Proposal,02-13-2024,implementation
+Emma,implementation regarding the paper is expected on 12-14-2025.,Paper,12-14-2025,implementation
+Liam,The submission is happening on 01-16-2025 regarding the proposal.,Proposal,01-16-2025,submission
+Sarah,The standup is planned for no specific date during the study.,Study,NULL,standup
+Olivia,The workshop is planned for 02-14-2025 during the research.,Research,02-14-2025,workshop
+Emma,A presentation is set to occur on 03-18-2025 related to the exercise.,Exercise,03-18-2025,presentation
+Liam,A deployment is set to occur on 09-17-2025 related to the project.,Project,09-17-2025,deployment
+Chris,The huddle is planned for 03-08-2025 during the project.,Project,03-08-2025,huddle
+Sophia,webinar regarding the assignment is expected on 08-12-2025.,Assignment,08-12-2025,webinar
+Sarah,The alignment is planned for no specific date during the plan.,Plan,NULL,alignment
+Sarah,The catch-up is happening on 12-02-2025 regarding the study.,Study,12-02-2025,catch-up
+Isabella,The workshop is planned for no specific date during the study.,Study,NULL,workshop
+David,"During the exercise, there will be a catch-up on no specific date.",Exercise,NULL,catch-up
+Isabella,testing regarding the presentation is expected on 06-19-2025.,Presentation,06-19-2025,testing
+Chris,submission regarding the presentation is expected on 02-22-2025.,Presentation,02-22-2025,submission
+John,deadline regarding the paper is expected on 03-18-2024.,Paper,03-18-2024,deadline
+Mark,The briefing is happening on no specific date regarding the experiment.,Experiment,NULL,briefing
+James,"During the experiment, there will be a webinar on no specific date.",Experiment,NULL,webinar
+Sarah,"During the exercise, there will be a deadline on 02-04-2025.",Exercise,02-04-2025,deadline
+James,The brainstorm is happening on no specific date regarding the assignment.,Assignment,NULL,brainstorm
+David,The alignment is happening on 10-11-2025 regarding the proposal.,Proposal,10-11-2025,alignment
+Chris,"During the draft, there will be a briefing on 11-14-2024.",Draft,11-14-2024,briefing
+Chris,session regarding the task is expected on 08-16-2025.,Task,08-16-2025,session
+Liam,deployment regarding the report is expected on 05-22-2024.,Report,05-22-2024,deployment
+Alice,"During the report, there will be a briefing on 10-03-2024.",Report,10-03-2024,briefing
+Isabella,A briefing is set to occur on no specific date related to the analysis.,Analysis,NULL,briefing
+Sarah,The conference is happening on no specific date regarding the project.,Project,NULL,conference
+Isabella,"During the research, there will be a session on no specific date.",Research,NULL,session
+Emma,The submission is planned for 01-12-2025 during the experiment.,Experiment,01-12-2025,submission
+Charlotte,A orientation is set to occur on 12-13-2025 related to the proposal.,Proposal,12-13-2025,orientation
+Sarah,The session is planned for no specific date during the task.,Task,NULL,session
+Alice,The training is happening on 11-05-2025 regarding the task.,Task,11-05-2025,training
+Sarah,"During the exercise, there will be a session on 03-25-2024.",Exercise,03-25-2024,session
+Mark,The discussion is planned for 11-01-2025 during the exercise.,Exercise,11-01-2025,discussion
+Mark,conference regarding the exercise is expected on no specific date.,Exercise,NULL,conference
+Sarah,A discussion is set to occur on no specific date related to the proposal.,Proposal,NULL,discussion
+James,The briefing is happening on no specific date regarding the draft.,Draft,NULL,briefing
+David,The meeting is happening on no specific date regarding the research.,Research,NULL,meeting
+Chris,The webinar is planned for 11-03-2025 during the exercise.,Exercise,11-03-2025,webinar
+Olivia,"During the homework, there will be a webinar on 08-01-2024.",Homework,08-01-2024,webinar
+Ethan,The orientation is happening on no specific date regarding the presentation.,Presentation,NULL,orientation
+John,The session is planned for 06-27-2025 during the study.,Study,06-27-2025,session
+Chris,The session is happening on 04-28-2024 regarding the document.,Document,04-28-2024,session
+Olivia,deadline regarding the project is expected on 12-15-2024.,Project,12-15-2024,deadline
+Sophia,The alignment is happening on 01-04-2024 regarding the plan.,Plan,01-04-2024,alignment
+Charlotte,"During the experiment, there will be a webinar on 06-25-2025.",Experiment,06-25-2025,webinar
+Ethan,The conference is happening on no specific date regarding the assignment.,Assignment,NULL,conference
+Liam,The training is happening on 01-20-2025 regarding the experiment.,Experiment,01-20-2025,training
+Alice,discussion regarding the project is expected on 11-27-2024.,Project,11-27-2024,discussion
+Sophia,A webinar is set to occur on 03-24-2024 related to the study.,Study,03-24-2024,webinar
+Isabella,"During the homework, there will be a workshop on 03-12-2024.",Homework,03-12-2024,workshop
+Sophia,The training is happening on 05-10-2024 regarding the deliverable.,Deliverable,05-10-2024,training
+Isabella,A deadline is set to occur on 01-18-2024 related to the research.,Research,01-18-2024,deadline
+James,The training is happening on 12-25-2025 regarding the experiment.,Experiment,12-25-2025,training
+Liam,training regarding the review is expected on 05-24-2025.,Review,05-24-2025,training
+Alice,deadline regarding the draft is expected on 09-01-2025.,Draft,09-01-2025,deadline
+Sophia,"During the project, there will be a presentation on no specific date.",Project,NULL,presentation
+Olivia,The catch-up is planned for 06-28-2024 during the review.,Review,06-28-2024,catch-up
+James,The session is happening on 11-24-2024 regarding the research.,Research,11-24-2024,session
+Sophia,The standup is happening on 06-28-2024 regarding the deliverable.,Deliverable,06-28-2024,standup
+Mark,A webinar is set to occur on 10-12-2025 related to the assignment.,Assignment,10-12-2025,webinar
+James,The orientation is happening on no specific date regarding the deliverable.,Deliverable,NULL,orientation
+John,"During the experiment, there will be a deployment on 08-08-2025.",Experiment,08-08-2025,deployment
+Sarah,A discussion is set to occur on 07-03-2024 related to the study.,Study,07-03-2024,discussion
+Sophia,The alignment is happening on 04-14-2024 regarding the review.,Review,04-14-2024,alignment
+Isabella,"During the project, there will be a submission on 06-07-2025.",Project,06-07-2025,submission
+Liam,A submission is set to occur on no specific date related to the presentation.,Presentation,NULL,submission
+James,The testing is happening on no specific date regarding the exercise.,Exercise,NULL,testing
+John,"During the task, there will be a training on 02-13-2024.",Task,02-13-2024,training
+James,The meeting is happening on 06-18-2025 regarding the draft.,Draft,06-18-2025,meeting
+Chris,standup regarding the assignment is expected on no specific date.,Assignment,NULL,standup
+Olivia,The session is planned for no specific date during the experiment.,Experiment,NULL,session
+Alice,brainstorm regarding the document is expected on 04-26-2025.,Document,04-26-2025,brainstorm
+Liam,A workshop is set to occur on no specific date related to the document.,Document,NULL,workshop
+Mark,brainstorm regarding the research is expected on no specific date.,Research,NULL,brainstorm
+Olivia,"During the deliverable, there will be a training on 01-06-2024.",Deliverable,01-06-2024,training
+David,catch-up regarding the experiment is expected on 06-20-2024.,Experiment,06-20-2024,catch-up
+Liam,The training is planned for 09-16-2025 during the task.,Task,09-16-2025,training
+Alice,The conference is planned for 11-06-2024 during the draft.,Draft,11-06-2024,conference
+Emma,discussion regarding the draft is expected on 05-20-2025.,Draft,05-20-2025,discussion
+Sarah,The briefing is planned for 12-02-2025 during the plan.,Plan,12-02-2025,briefing
+Ethan,The discussion is planned for no specific date during the analysis.,Analysis,NULL,discussion
+Sophia,The training is happening on 07-04-2025 regarding the study.,Study,07-04-2025,training
+Alice,A huddle is set to occur on 05-02-2025 related to the research.,Research,05-02-2025,huddle
+Charlotte,The presentation is happening on 01-25-2024 regarding the study.,Study,01-25-2024,presentation
+Charlotte,A submission is set to occur on 03-01-2025 related to the review.,Review,03-01-2025,submission
+Sarah,"During the analysis, there will be a alignment on 05-07-2024.",Analysis,05-07-2024,alignment
+John,A brainstorm is set to occur on 09-17-2024 related to the assignment.,Assignment,09-17-2024,brainstorm
+John,"During the assignment, there will be a discussion on no specific date.",Assignment,NULL,discussion
+Isabella,"During the analysis, there will be a conference on 03-10-2024.",Analysis,03-10-2024,conference
+David,The catch-up is happening on no specific date regarding the task.,Task,NULL,catch-up
+Ethan,"During the draft, there will be a meeting on 11-24-2024.",Draft,11-24-2024,meeting
+Sarah,A meeting is set to occur on 12-22-2025 related to the analysis.,Analysis,12-22-2025,meeting
+Liam,The submission is happening on 01-26-2025 regarding the paper.,Paper,01-26-2025,submission
+Sarah,The training is happening on 06-09-2025 regarding the report.,Report,06-09-2025,training
+Ethan,The briefing is planned for 09-18-2024 during the experiment.,Experiment,09-18-2024,briefing
+Sarah,"During the deliverable, there will be a conference on 02-07-2025.",Deliverable,02-07-2025,conference
+Liam,A webinar is set to occur on 12-06-2024 related to the document.,Document,12-06-2024,webinar
+David,"During the presentation, there will be a huddle on no specific date.",Presentation,NULL,huddle
+Charlotte,"During the document, there will be a standup on no specific date.",Document,NULL,standup
+Olivia,A implementation is set to occur on 11-18-2024 related to the deliverable.,Deliverable,11-18-2024,implementation
+Sarah,A orientation is set to occur on no specific date related to the research.,Research,NULL,orientation
+Liam,alignment regarding the project is expected on no specific date.,Project,NULL,alignment
+Isabella,The brainstorm is happening on no specific date regarding the report.,Report,NULL,brainstorm
+Liam,"During the paper, there will be a brainstorm on no specific date.",Paper,NULL,brainstorm
+Liam,deadline regarding the paper is expected on 09-08-2025.,Paper,09-08-2025,deadline
+Olivia,A deployment is set to occur on 01-05-2024 related to the research.,Research,01-05-2024,deployment
+James,conference regarding the assignment is expected on no specific date.,Assignment,NULL,conference
+Liam,A alignment is set to occur on 11-02-2025 related to the homework.,Homework,11-02-2025,alignment
+Alice,testing regarding the analysis is expected on 05-23-2024.,Analysis,05-23-2024,testing
+Mark,The standup is planned for 11-14-2025 during the proposal.,Proposal,11-14-2025,standup
+Ethan,webinar regarding the plan is expected on 09-13-2024.,Plan,09-13-2024,webinar
+Alice,The deployment is happening on 12-05-2025 regarding the paper.,Paper,12-05-2025,deployment
+Sarah,The discussion is happening on 06-21-2024 regarding the review.,Review,06-21-2024,discussion
+Liam,The catch-up is happening on 04-10-2025 regarding the report.,Report,04-10-2025,catch-up
+Liam,A testing is set to occur on 07-04-2024 related to the draft.,Draft,07-04-2024,testing
+James,training regarding the report is expected on no specific date.,Report,NULL,training
+Mark,orientation regarding the task is expected on 01-18-2024.,Task,01-18-2024,orientation
+Sophia,The discussion is happening on no specific date regarding the research.,Research,NULL,discussion
+David,The huddle is planned for 11-26-2025 during the project.,Project,11-26-2025,huddle
+David,"During the draft, there will be a discussion on 04-24-2025.",Draft,04-24-2025,discussion
+Emma,"During the deliverable, there will be a presentation on 07-28-2024.",Deliverable,07-28-2024,presentation
+Alice,"During the homework, there will be a deadline on no specific date.",Homework,NULL,deadline
+Ethan,The workshop is planned for 05-17-2025 during the report.,Report,05-17-2025,workshop
+John,alignment regarding the research is expected on no specific date.,Research,NULL,alignment
+John,A huddle is set to occur on 11-24-2025 related to the research.,Research,11-24-2025,huddle
+James,The meeting is planned for 02-28-2025 during the proposal.,Proposal,02-28-2025,meeting
+Olivia,A discussion is set to occur on no specific date related to the review.,Review,NULL,discussion
+Sarah,"During the review, there will be a discussion on 10-21-2024.",Review,10-21-2024,discussion
+Mark,"During the paper, there will be a conference on 08-01-2024.",Paper,08-01-2024,conference
+Mark,The workshop is planned for 06-12-2024 during the proposal.,Proposal,06-12-2024,workshop
+Chris,The conference is planned for 01-15-2024 during the review.,Review,01-15-2024,conference
+Sophia,The deadline is planned for 09-07-2024 during the presentation.,Presentation,09-07-2024,deadline
+Emma,standup regarding the review is expected on 03-22-2025.,Review,03-22-2025,standup
+Sophia,The submission is planned for 01-06-2025 during the task.,Task,01-06-2025,submission
+John,submission regarding the review is expected on 06-14-2025.,Review,06-14-2025,submission
+Sophia,A alignment is set to occur on 03-04-2024 related to the research.,Research,03-04-2024,alignment
+John,A huddle is set to occur on 08-19-2024 related to the project.,Project,08-19-2024,huddle
+Isabella,A huddle is set to occur on no specific date related to the draft.,Draft,NULL,huddle
+Mark,brainstorm regarding the plan is expected on 02-13-2024.,Plan,02-13-2024,brainstorm
+David,"During the study, there will be a testing on 11-20-2024.",Study,11-20-2024,testing
+Emma,"During the exercise, there will be a meeting on 04-09-2024.",Exercise,04-09-2024,meeting
+Olivia,"During the proposal, there will be a conference on no specific date.",Proposal,NULL,conference
+Mark,The conference is planned for 05-13-2025 during the report.,Report,05-13-2025,conference
+Chris,The deadline is planned for no specific date during the project.,Project,NULL,deadline
+Alice,"During the research, there will be a training on no specific date.",Research,NULL,training
+David,"During the document, there will be a submission on 01-25-2025.",Document,01-25-2025,submission
+Isabella,The workshop is happening on 10-17-2025 regarding the report.,Report,10-17-2025,workshop
+Liam,The presentation is happening on no specific date regarding the review.,Review,NULL,presentation
+Alice,"During the research, there will be a discussion on 09-10-2024.",Research,09-10-2024,discussion
+Sophia,presentation regarding the report is expected on 08-14-2024.,Report,08-14-2024,presentation
+Sarah,standup regarding the document is expected on 03-15-2024.,Document,03-15-2024,standup
+Liam,"During the research, there will be a catch-up on no specific date.",Research,NULL,catch-up
+John,The implementation is happening on 10-18-2024 regarding the analysis.,Analysis,10-18-2024,implementation
+Charlotte,The conference is planned for no specific date during the review.,Review,NULL,conference
+James,The orientation is planned for 05-17-2025 during the paper.,Paper,05-17-2025,orientation
+Chris,The alignment is planned for 02-26-2024 during the proposal.,Proposal,02-26-2024,alignment
+David,"During the study, there will be a webinar on 04-15-2025.",Study,04-15-2025,webinar
+Liam,"During the project, there will be a workshop on no specific date.",Project,NULL,workshop
+Sophia,A orientation is set to occur on no specific date related to the document.,Document,NULL,orientation
+James,The conference is planned for 07-07-2025 during the presentation.,Presentation,07-07-2025,conference
+James,"During the review, there will be a session on 06-12-2024.",Review,06-12-2024,session
+Olivia,The submission is planned for 02-22-2024 during the research.,Research,02-22-2024,submission
+Ethan,huddle regarding the homework is expected on 02-01-2025.,Homework,02-01-2025,huddle
+John,standup regarding the homework is expected on 05-14-2024.,Homework,05-14-2024,standup
+Liam,"During the plan, there will be a catch-up on 05-07-2025.",Plan,05-07-2025,catch-up
+Liam,A deployment is set to occur on 01-14-2024 related to the draft.,Draft,01-14-2024,deployment
+Sophia,The alignment is happening on 09-12-2025 regarding the proposal.,Proposal,09-12-2025,alignment
+Alice,"During the document, there will be a brainstorm on no specific date.",Document,NULL,brainstorm
+Emma,The discussion is planned for 07-17-2024 during the task.,Task,07-17-2024,discussion
+Sarah,The webinar is happening on no specific date regarding the exercise.,Exercise,NULL,webinar
+Sarah,The huddle is happening on 11-11-2025 regarding the report.,Report,11-11-2025,huddle
+Olivia,A testing is set to occur on 05-28-2024 related to the project.,Project,05-28-2024,testing
+James,A catch-up is set to occur on no specific date related to the assignment.,Assignment,NULL,catch-up
+Sophia,"During the presentation, there will be a workshop on no specific date.",Presentation,NULL,workshop
+Olivia,conference regarding the plan is expected on 11-28-2024.,Plan,11-28-2024,conference
+Liam,presentation regarding the study is expected on 05-13-2024.,Study,05-13-2024,presentation
+Olivia,A deployment is set to occur on 10-24-2025 related to the research.,Research,10-24-2025,deployment
+Emma,A catch-up is set to occur on 10-05-2024 related to the research.,Research,10-05-2024,catch-up
+Liam,workshop regarding the presentation is expected on no specific date.,Presentation,NULL,workshop
+Mark,deployment regarding the study is expected on no specific date.,Study,NULL,deployment
+Charlotte,"During the proposal, there will be a huddle on no specific date.",Proposal,NULL,huddle
+Olivia,webinar regarding the analysis is expected on 05-01-2024.,Analysis,05-01-2024,webinar
+Alice,A submission is set to occur on 06-27-2024 related to the research.,Research,06-27-2024,submission
+Charlotte,A presentation is set to occur on 06-22-2024 related to the review.,Review,06-22-2024,presentation
+Liam,"During the homework, there will be a implementation on 10-18-2024.",Homework,10-18-2024,implementation
+Ethan,The orientation is planned for no specific date during the research.,Research,NULL,orientation
+Emma,"During the review, there will be a testing on 12-03-2025.",Review,12-03-2025,testing
+David,The conference is planned for no specific date during the experiment.,Experiment,NULL,conference
+Ethan,The workshop is happening on no specific date regarding the project.,Project,NULL,workshop
+Sarah,The meeting is planned for 01-17-2025 during the analysis.,Analysis,01-17-2025,meeting
+Chris,"During the project, there will be a catch-up on 11-27-2024.",Project,11-27-2024,catch-up
+David,The catch-up is planned for 09-11-2024 during the experiment.,Experiment,09-11-2024,catch-up
+Liam,The training is happening on no specific date regarding the document.,Document,NULL,training
+James,The alignment is happening on 10-27-2025 regarding the proposal.,Proposal,10-27-2025,alignment
+Sarah,A deadline is set to occur on 09-17-2024 related to the research.,Research,09-17-2024,deadline
+David,The implementation is planned for 06-25-2025 during the research.,Research,06-25-2025,implementation
+David,discussion regarding the homework is expected on 09-19-2024.,Homework,09-19-2024,discussion
+Chris,The discussion is happening on 08-16-2024 regarding the report.,Report,08-16-2024,discussion
+James,A alignment is set to occur on no specific date related to the assignment.,Assignment,NULL,alignment
+Alice,The submission is happening on 10-04-2025 regarding the assignment.,Assignment,10-04-2025,submission
+David,The deadline is happening on no specific date regarding the report.,Report,NULL,deadline
+Sarah,The training is planned for 09-19-2024 during the experiment.,Experiment,09-19-2024,training
+Emma,The briefing is planned for 06-17-2025 during the proposal.,Proposal,06-17-2025,briefing
+David,The training is planned for no specific date during the draft.,Draft,NULL,training
+Liam,The catch-up is happening on 10-04-2024 regarding the experiment.,Experiment,10-04-2024,catch-up
+Ethan,"During the study, there will be a briefing on 03-19-2024.",Study,03-19-2024,briefing
+Liam,"During the presentation, there will be a session on 05-24-2024.",Presentation,05-24-2024,session
+Ethan,A deadline is set to occur on 03-11-2024 related to the homework.,Homework,03-11-2024,deadline
+Mark,A orientation is set to occur on 01-17-2025 related to the proposal.,Proposal,01-17-2025,orientation
+Alice,The webinar is happening on 06-17-2024 regarding the plan.,Plan,06-17-2024,webinar
+Sarah,The meeting is planned for 10-22-2024 during the task.,Task,10-22-2024,meeting
+John,A implementation is set to occur on 01-26-2025 related to the experiment.,Experiment,01-26-2025,implementation
+Liam,workshop regarding the plan is expected on 05-05-2024.,Plan,05-05-2024,workshop
+Charlotte,The session is happening on 02-22-2024 regarding the deliverable.,Deliverable,02-22-2024,session
+Alice,The conference is happening on no specific date regarding the plan.,Plan,NULL,conference
+Sarah,The huddle is happening on 01-09-2025 regarding the research.,Research,01-09-2025,huddle
+Sarah,"During the proposal, there will be a alignment on 01-20-2025.",Proposal,01-20-2025,alignment
+Olivia,"During the project, there will be a session on 01-06-2025.",Project,01-06-2025,session
+John,submission regarding the research is expected on no specific date.,Research,NULL,submission
+Liam,submission regarding the deliverable is expected on 05-19-2024.,Deliverable,05-19-2024,submission
+David,The discussion is planned for 03-05-2024 during the proposal.,Proposal,03-05-2024,discussion
+Sophia,"During the homework, there will be a deployment on no specific date.",Homework,NULL,deployment
+Liam,"During the research, there will be a submission on no specific date.",Research,NULL,submission
+Sarah,alignment regarding the project is expected on no specific date.,Project,NULL,alignment
+Liam,The catch-up is planned for 08-19-2025 during the paper.,Paper,08-19-2025,catch-up
+Chris,The catch-up is planned for 02-03-2024 during the experiment.,Experiment,02-03-2024,catch-up
+Sarah,webinar regarding the document is expected on no specific date.,Document,NULL,webinar
+Sophia,A catch-up is set to occur on no specific date related to the assignment.,Assignment,NULL,catch-up
+Olivia,"During the homework, there will be a submission on no specific date.",Homework,NULL,submission
+Sophia,implementation regarding the presentation is expected on 05-08-2024.,Presentation,05-08-2024,implementation
+James,The catch-up is happening on 12-02-2025 regarding the research.,Research,12-02-2025,catch-up
+David,The training is happening on no specific date regarding the review.,Review,NULL,training
+John,A orientation is set to occur on 11-01-2025 related to the exercise.,Exercise,11-01-2025,orientation
+Liam,The standup is planned for 02-13-2025 during the document.,Document,02-13-2025,standup
+Ethan,"During the deliverable, there will be a discussion on 02-20-2025.",Deliverable,02-20-2025,discussion
+John,The brainstorm is happening on 03-13-2025 regarding the experiment.,Experiment,03-13-2025,brainstorm
+Alice,A alignment is set to occur on 09-07-2025 related to the study.,Study,09-07-2025,alignment
+Ethan,A meeting is set to occur on 05-04-2025 related to the project.,Project,05-04-2025,meeting
+David,The deployment is planned for 02-19-2025 during the study.,Study,02-19-2025,deployment
+Emma,A conference is set to occur on no specific date related to the exercise.,Exercise,NULL,conference
+Mark,brainstorm regarding the review is expected on no specific date.,Review,NULL,brainstorm
+Sarah,workshop regarding the report is expected on 12-16-2024.,Report,12-16-2024,workshop
+David,A discussion is set to occur on 04-01-2025 related to the experiment.,Experiment,04-01-2025,discussion
+Sophia,A discussion is set to occur on 09-27-2024 related to the exercise.,Exercise,09-27-2024,discussion
+Sophia,A meeting is set to occur on no specific date related to the document.,Document,NULL,meeting
+Isabella,"During the draft, there will be a briefing on 09-01-2025.",Draft,09-01-2025,briefing
+Chris,discussion regarding the review is expected on 10-17-2024.,Review,10-17-2024,discussion
+Emma,The standup is planned for 06-16-2024 during the exercise.,Exercise,06-16-2024,standup
+Alice,The deadline is happening on 11-18-2024 regarding the draft.,Draft,11-18-2024,deadline
+Chris,presentation regarding the presentation is expected on 05-04-2024.,Presentation,05-04-2024,presentation
+Sophia,The conference is planned for 11-10-2024 during the analysis.,Analysis,11-10-2024,conference
+Liam,"During the report, there will be a deadline on 11-20-2025.",Report,11-20-2025,deadline
+Olivia,The testing is planned for no specific date during the research.,Research,NULL,testing
+Ethan,A discussion is set to occur on no specific date related to the document.,Document,NULL,discussion
+Alice,The implementation is happening on no specific date regarding the assignment.,Assignment,NULL,implementation
+Sarah,The deadline is happening on no specific date regarding the document.,Document,NULL,deadline
+Chris,The training is planned for no specific date during the research.,Research,NULL,training
+Emma,"During the presentation, there will be a orientation on no specific date.",Presentation,NULL,orientation
+Charlotte,The conference is planned for 04-02-2024 during the study.,Study,04-02-2024,conference
+Emma,"During the research, there will be a briefing on 01-21-2025.",Research,01-21-2025,briefing
+Isabella,The meeting is planned for 04-18-2024 during the task.,Task,04-18-2024,meeting
+Chris,The orientation is planned for 03-10-2024 during the paper.,Paper,03-10-2024,orientation
+Mark,deadline regarding the experiment is expected on no specific date.,Experiment,NULL,deadline
+Liam,The deadline is planned for no specific date during the document.,Document,NULL,deadline
+Sophia,implementation regarding the research is expected on no specific date.,Research,NULL,implementation
+Sophia,alignment regarding the review is expected on 05-17-2024.,Review,05-17-2024,alignment
+Alice,The alignment is planned for 10-06-2025 during the experiment.,Experiment,10-06-2025,alignment
+Sophia,A standup is set to occur on 04-10-2024 related to the experiment.,Experiment,04-10-2024,standup
+Sophia,The brainstorm is happening on 02-06-2024 regarding the draft.,Draft,02-06-2024,brainstorm
+Chris,A submission is set to occur on no specific date related to the review.,Review,NULL,submission
+John,brainstorm regarding the experiment is expected on no specific date.,Experiment,NULL,brainstorm
+Chris,The deadline is planned for 05-13-2024 during the task.,Task,05-13-2024,deadline
+John,"During the assignment, there will be a presentation on no specific date.",Assignment,NULL,presentation
+Olivia,The standup is happening on no specific date regarding the deliverable.,Deliverable,NULL,standup
+Alice,The workshop is happening on 12-21-2025 regarding the report.,Report,12-21-2025,workshop
+Ethan,The session is happening on 12-07-2025 regarding the exercise.,Exercise,12-07-2025,session
+James,"During the experiment, there will be a session on no specific date.",Experiment,NULL,session
+Olivia,The briefing is planned for 12-27-2025 during the report.,Report,12-27-2025,briefing
+Isabella,The workshop is happening on no specific date regarding the review.,Review,NULL,workshop
+Sarah,The training is happening on no specific date regarding the document.,Document,NULL,training
+Emma,A discussion is set to occur on no specific date related to the assignment.,Assignment,NULL,discussion
+Mark,"During the plan, there will be a deadline on no specific date.",Plan,NULL,deadline
+Alice,"During the draft, there will be a orientation on 03-10-2024.",Draft,03-10-2024,orientation
+David,The deadline is happening on 11-10-2024 regarding the exercise.,Exercise,11-10-2024,deadline
+Sophia,The standup is happening on 03-09-2024 regarding the analysis.,Analysis,03-09-2024,standup
+John,"During the draft, there will be a standup on 12-20-2025.",Draft,12-20-2025,standup
+Isabella,"During the homework, there will be a huddle on 09-06-2025.",Homework,09-06-2025,huddle
+James,A training is set to occur on 10-10-2025 related to the proposal.,Proposal,10-10-2025,training
+Ethan,"During the document, there will be a conference on no specific date.",Document,NULL,conference
+Charlotte,The huddle is planned for 01-05-2024 during the homework.,Homework,01-05-2024,huddle
+John,The session is happening on 10-01-2024 regarding the draft.,Draft,10-01-2024,session
+Emma,The huddle is happening on 07-21-2025 regarding the assignment.,Assignment,07-21-2025,huddle
+Charlotte,The webinar is planned for no specific date during the document.,Document,NULL,webinar
+Sophia,The deployment is happening on 01-18-2024 regarding the analysis.,Analysis,01-18-2024,deployment
+Sophia,The deployment is planned for 12-25-2025 during the plan.,Plan,12-25-2025,deployment
+Chris,workshop regarding the assignment is expected on 09-25-2025.,Assignment,09-25-2025,workshop
+Charlotte,A training is set to occur on 12-09-2024 related to the draft.,Draft,12-09-2024,training
+Charlotte,presentation regarding the deliverable is expected on 05-23-2024.,Deliverable,05-23-2024,presentation
+Isabella,"During the homework, there will be a brainstorm on 01-14-2025.",Homework,01-14-2025,brainstorm
+Chris,"During the exercise, there will be a briefing on no specific date.",Exercise,NULL,briefing
+Sophia,deployment regarding the presentation is expected on 07-26-2024.,Presentation,07-26-2024,deployment
+Chris,The catch-up is happening on no specific date regarding the draft.,Draft,NULL,catch-up
+John,"During the presentation, there will be a brainstorm on no specific date.",Presentation,NULL,brainstorm
+Alice,The meeting is happening on 04-14-2025 regarding the homework.,Homework,04-14-2025,meeting
+Mark,"During the deliverable, there will be a workshop on 07-27-2025.",Deliverable,07-27-2025,workshop
+Charlotte,"During the document, there will be a conference on no specific date.",Document,NULL,conference
+Liam,The catch-up is happening on no specific date regarding the exercise.,Exercise,NULL,catch-up
+Charlotte,The testing is planned for no specific date during the deliverable.,Deliverable,NULL,testing
+Ethan,"During the research, there will be a meeting on 11-26-2025.",Research,11-26-2025,meeting
+Olivia,A orientation is set to occur on 07-09-2025 related to the project.,Project,07-09-2025,orientation
+Sarah,A alignment is set to occur on 02-04-2025 related to the assignment.,Assignment,02-04-2025,alignment
+David,"During the draft, there will be a implementation on no specific date.",Draft,NULL,implementation
+Ethan,The catch-up is happening on 03-02-2024 regarding the presentation.,Presentation,03-02-2024,catch-up
+Sophia,standup regarding the document is expected on 03-18-2024.,Document,03-18-2024,standup
+Emma,implementation regarding the project is expected on 09-16-2025.,Project,09-16-2025,implementation
+Sophia,deadline regarding the study is expected on no specific date.,Study,NULL,deadline
+Sarah,A presentation is set to occur on 07-02-2025 related to the plan.,Plan,07-02-2025,presentation
+Chris,webinar regarding the document is expected on 03-17-2025.,Document,03-17-2025,webinar
+Charlotte,The orientation is planned for 09-13-2024 during the experiment.,Experiment,09-13-2024,orientation
+John,The testing is happening on no specific date regarding the homework.,Homework,NULL,testing
+John,huddle regarding the homework is expected on 10-05-2024.,Homework,10-05-2024,huddle
+Olivia,meeting regarding the document is expected on 09-18-2025.,Document,09-18-2025,meeting
+David,The discussion is planned for 07-16-2025 during the presentation.,Presentation,07-16-2025,discussion
+Isabella,The huddle is planned for no specific date during the exercise.,Exercise,NULL,huddle
+David,A submission is set to occur on 11-11-2025 related to the analysis.,Analysis,11-11-2025,submission
+James,The brainstorm is planned for 08-20-2025 during the research.,Research,08-20-2025,brainstorm
+Sarah,The briefing is planned for 11-03-2024 during the assignment.,Assignment,11-03-2024,briefing
+John,"During the paper, there will be a submission on 02-22-2024.",Paper,02-22-2024,submission
+Chris,The orientation is happening on no specific date regarding the exercise.,Exercise,NULL,orientation
+Emma,"During the deliverable, there will be a testing on 12-05-2025.",Deliverable,12-05-2025,testing
+Liam,The meeting is planned for 02-21-2025 during the assignment.,Assignment,02-21-2025,meeting
+David,huddle regarding the study is expected on no specific date.,Study,NULL,huddle
+Emma,"During the proposal, there will be a deployment on no specific date.",Proposal,NULL,deployment
+Sophia,The deadline is planned for 02-10-2025 during the review.,Review,02-10-2025,deadline
+Emma,standup regarding the paper is expected on 07-09-2025.,Paper,07-09-2025,standup
+David,orientation regarding the plan is expected on 02-06-2025.,Plan,02-06-2025,orientation
+David,presentation regarding the assignment is expected on 06-26-2024.,Assignment,06-26-2024,presentation
+Sophia,"During the paper, there will be a webinar on 11-14-2024.",Paper,11-14-2024,webinar
+John,The training is happening on 01-21-2024 regarding the task.,Task,01-21-2024,training
+Charlotte,The huddle is planned for no specific date during the task.,Task,NULL,huddle
+Sarah,The catch-up is happening on 07-21-2024 regarding the deliverable.,Deliverable,07-21-2024,catch-up
+Liam,discussion regarding the presentation is expected on 02-02-2024.,Presentation,02-02-2024,discussion
+Mark,"During the presentation, there will be a workshop on 09-19-2025.",Presentation,09-19-2025,workshop
+Liam,The huddle is planned for no specific date during the presentation.,Presentation,NULL,huddle
+Olivia,A orientation is set to occur on 07-08-2024 related to the analysis.,Analysis,07-08-2024,orientation
+Sophia,conference regarding the document is expected on 09-25-2024.,Document,09-25-2024,conference
+Charlotte,"During the study, there will be a webinar on no specific date.",Study,NULL,webinar
+Sarah,A webinar is set to occur on no specific date related to the assignment.,Assignment,NULL,webinar
+Alice,"During the task, there will be a session on no specific date.",Task,NULL,session
+Sophia,testing regarding the document is expected on no specific date.,Document,NULL,testing
+James,The presentation is happening on 01-18-2024 regarding the project.,Project,01-18-2024,presentation
+Ethan,The orientation is planned for 05-12-2024 during the study.,Study,05-12-2024,orientation
+Chris,The implementation is happening on 06-28-2025 regarding the exercise.,Exercise,06-28-2025,implementation
+Mark,The meeting is planned for 08-28-2025 during the study.,Study,08-28-2025,meeting
+David,A standup is set to occur on 02-12-2025 related to the exercise.,Exercise,02-12-2025,standup
+Emma,A testing is set to occur on 05-03-2024 related to the deliverable.,Deliverable,05-03-2024,testing
+David,A workshop is set to occur on no specific date related to the analysis.,Analysis,NULL,workshop
+Chris,The orientation is happening on 03-03-2024 regarding the paper.,Paper,03-03-2024,orientation
+Mark,catch-up regarding the presentation is expected on 01-14-2025.,Presentation,01-14-2025,catch-up
+James,A discussion is set to occur on no specific date related to the report.,Report,NULL,discussion
+Mark,The workshop is planned for 08-05-2025 during the paper.,Paper,08-05-2025,workshop
+John,A meeting is set to occur on 10-16-2025 related to the report.,Report,10-16-2025,meeting
+Chris,The huddle is planned for 09-10-2024 during the deliverable.,Deliverable,09-10-2024,huddle
+Mark,The conference is planned for 05-09-2025 during the task.,Task,05-09-2025,conference
+Charlotte,The deployment is planned for 06-24-2025 during the review.,Review,06-24-2025,deployment
+Liam,The training is planned for no specific date during the deliverable.,Deliverable,NULL,training
+James,The standup is planned for 04-13-2025 during the deliverable.,Deliverable,04-13-2025,standup
+Charlotte,The testing is planned for 07-28-2025 during the plan.,Plan,07-28-2025,testing
+David,A session is set to occur on 04-02-2025 related to the proposal.,Proposal,04-02-2025,session
+John,A catch-up is set to occur on 06-01-2025 related to the study.,Study,06-01-2025,catch-up
+Sophia,The meeting is happening on 07-26-2024 regarding the homework.,Homework,07-26-2024,meeting
+Chris,catch-up regarding the analysis is expected on 09-08-2024.,Analysis,09-08-2024,catch-up
+Sophia,A standup is set to occur on no specific date related to the review.,Review,NULL,standup
+David,The alignment is happening on 02-12-2025 regarding the task.,Task,02-12-2025,alignment
+Sophia,The session is happening on 10-16-2025 regarding the task.,Task,10-16-2025,session
+Sophia,A presentation is set to occur on 05-13-2025 related to the study.,Study,05-13-2025,presentation
+Sarah,A alignment is set to occur on no specific date related to the homework.,Homework,NULL,alignment
+Alice,The briefing is planned for 12-19-2025 during the report.,Report,12-19-2025,briefing
+Sarah,The alignment is happening on 01-27-2024 regarding the paper.,Paper,01-27-2024,alignment
+Ethan,"During the deliverable, there will be a workshop on 03-13-2025.",Deliverable,03-13-2025,workshop
+Mark,brainstorm regarding the report is expected on 07-20-2024.,Report,07-20-2024,brainstorm
+Ethan,The testing is planned for 04-03-2024 during the report.,Report,04-03-2024,testing
+Emma,"During the draft, there will be a submission on 01-17-2024.",Draft,01-17-2024,submission
+Chris,The meeting is planned for 05-04-2024 during the report.,Report,05-04-2024,meeting
+Alice,"During the task, there will be a conference on 04-01-2025.",Task,04-01-2025,conference
+David,webinar regarding the report is expected on no specific date.,Report,NULL,webinar
+Charlotte,briefing regarding the proposal is expected on 11-28-2025.,Proposal,11-28-2025,briefing
+Sarah,A alignment is set to occur on no specific date related to the presentation.,Presentation,NULL,alignment
+Liam,"During the research, there will be a presentation on 09-26-2024.",Research,09-26-2024,presentation
+James,The submission is planned for 03-16-2025 during the plan.,Plan,03-16-2025,submission
+Sarah,discussion regarding the assignment is expected on 09-01-2024.,Assignment,09-01-2024,discussion
+Sophia,The session is planned for 09-18-2025 during the study.,Study,09-18-2025,session
+Chris,"During the report, there will be a standup on 02-08-2025.",Report,02-08-2025,standup
+David,The submission is planned for 04-10-2025 during the plan.,Plan,04-10-2025,submission
+Mark,implementation regarding the homework is expected on no specific date.,Homework,NULL,implementation
+Sarah,A catch-up is set to occur on 10-11-2024 related to the presentation.,Presentation,10-11-2024,catch-up
+Sarah,discussion regarding the document is expected on 08-26-2025.,Document,08-26-2025,discussion
+Alice,A discussion is set to occur on 07-12-2025 related to the experiment.,Experiment,07-12-2025,discussion
+Sarah,"During the study, there will be a submission on 05-11-2025.",Study,05-11-2025,submission
+James,A conference is set to occur on no specific date related to the homework.,Homework,NULL,conference
+Isabella,"During the plan, there will be a deployment on 11-02-2025.",Plan,11-02-2025,deployment
+Isabella,The standup is planned for 01-01-2025 during the proposal.,Proposal,01-01-2025,standup
+Charlotte,The huddle is planned for 10-01-2025 during the research.,Research,10-01-2025,huddle
+Alice,The deadline is planned for 06-02-2025 during the document.,Document,06-02-2025,deadline
+Olivia,alignment regarding the paper is expected on 03-14-2024.,Paper,03-14-2024,alignment
+Olivia,The alignment is happening on no specific date regarding the draft.,Draft,NULL,alignment
+James,huddle regarding the proposal is expected on 02-07-2024.,Proposal,02-07-2024,huddle
+Chris,The deadline is happening on 12-06-2025 regarding the assignment.,Assignment,12-06-2025,deadline
+Mark,The standup is happening on 02-13-2024 regarding the assignment.,Assignment,02-13-2024,standup
+Charlotte,The session is happening on no specific date regarding the draft.,Draft,NULL,session
+Ethan,A meeting is set to occur on 05-22-2024 related to the project.,Project,05-22-2024,meeting
+James,The standup is planned for 11-28-2025 during the review.,Review,11-28-2025,standup
+Isabella,orientation regarding the research is expected on 06-06-2025.,Research,06-06-2025,orientation
+Charlotte,implementation regarding the plan is expected on 01-11-2024.,Plan,01-11-2024,implementation
+Chris,training regarding the homework is expected on 09-12-2025.,Homework,09-12-2025,training
+Charlotte,The conference is planned for 02-20-2025 during the document.,Document,02-20-2025,conference
+Isabella,The submission is planned for no specific date during the deliverable.,Deliverable,NULL,submission
+Alice,catch-up regarding the deliverable is expected on 06-16-2024.,Deliverable,06-16-2024,catch-up
+Charlotte,briefing regarding the document is expected on 06-18-2025.,Document,06-18-2025,briefing
+Mark,huddle regarding the experiment is expected on no specific date.,Experiment,NULL,huddle
+John,The conference is planned for 10-04-2025 during the report.,Report,10-04-2025,conference
+Ethan,submission regarding the report is expected on 10-25-2024.,Report,10-25-2024,submission
+Olivia,The brainstorm is happening on 04-19-2024 regarding the report.,Report,04-19-2024,brainstorm
+James,"During the document, there will be a session on 04-09-2024.",Document,04-09-2024,session
+James,"During the report, there will be a standup on 06-02-2024.",Report,06-02-2024,standup
+Chris,"During the presentation, there will be a conference on 04-13-2024.",Presentation,04-13-2024,conference
+James,The workshop is happening on 10-01-2025 regarding the paper.,Paper,10-01-2025,workshop
+Mark,"During the research, there will be a brainstorm on 10-21-2025.",Research,10-21-2025,brainstorm
+Olivia,The presentation is planned for no specific date during the task.,Task,NULL,presentation
+David,The standup is planned for 11-17-2025 during the document.,Document,11-17-2025,standup
+Isabella,session regarding the assignment is expected on no specific date.,Assignment,NULL,session
+Liam,The implementation is happening on 04-10-2025 regarding the assignment.,Assignment,04-10-2025,implementation
+Alice,The presentation is happening on no specific date regarding the exercise.,Exercise,NULL,presentation
+Charlotte,The training is happening on no specific date regarding the deliverable.,Deliverable,NULL,training
+Charlotte,The huddle is planned for 08-15-2024 during the experiment.,Experiment,08-15-2024,huddle
+Olivia,discussion regarding the task is expected on no specific date.,Task,NULL,discussion
+Sophia,alignment regarding the paper is expected on no specific date.,Paper,NULL,alignment
+Charlotte,The catch-up is happening on 01-07-2024 regarding the proposal.,Proposal,01-07-2024,catch-up
+James,orientation regarding the proposal is expected on no specific date.,Proposal,NULL,orientation
+Charlotte,"During the study, there will be a workshop on 03-19-2025.",Study,03-19-2025,workshop
+James,The catch-up is planned for no specific date during the experiment.,Experiment,NULL,catch-up
+Ethan,A deadline is set to occur on 11-10-2024 related to the presentation.,Presentation,11-10-2024,deadline
+Alice,workshop regarding the homework is expected on 02-16-2024.,Homework,02-16-2024,workshop
+Sophia,implementation regarding the homework is expected on no specific date.,Homework,NULL,implementation
+Chris,The catch-up is planned for 12-07-2025 during the task.,Task,12-07-2025,catch-up
+James,"During the experiment, there will be a training on 03-01-2024.",Experiment,03-01-2024,training
+Sarah,The standup is planned for 10-22-2025 during the review.,Review,10-22-2025,standup
+David,briefing regarding the deliverable is expected on 02-24-2025.,Deliverable,02-24-2025,briefing
+Olivia,The standup is planned for 01-06-2024 during the plan.,Plan,01-06-2024,standup
+David,presentation regarding the proposal is expected on 05-20-2025.,Proposal,05-20-2025,presentation
+Alice,A session is set to occur on 01-13-2025 related to the homework.,Homework,01-13-2025,session
+Isabella,"During the exercise, there will be a conference on 06-25-2025.",Exercise,06-25-2025,conference
+Liam,"During the draft, there will be a submission on no specific date.",Draft,NULL,submission
+Chris,The training is happening on no specific date regarding the proposal.,Proposal,NULL,training
+James,"During the study, there will be a testing on no specific date.",Study,NULL,testing
+Chris,The webinar is happening on 04-05-2025 regarding the plan.,Plan,04-05-2025,webinar
+Liam,"During the project, there will be a meeting on 02-03-2025.",Project,02-03-2025,meeting
+Alice,A alignment is set to occur on no specific date related to the study.,Study,NULL,alignment
+David,The testing is planned for 03-16-2024 during the plan.,Plan,03-16-2024,testing
+Mark,A discussion is set to occur on 01-10-2025 related to the proposal.,Proposal,01-10-2025,discussion
+James,A orientation is set to occur on no specific date related to the presentation.,Presentation,NULL,orientation
+Liam,"During the experiment, there will be a alignment on no specific date.",Experiment,NULL,alignment
+James,webinar regarding the experiment is expected on 09-01-2024.,Experiment,09-01-2024,webinar
+James,"During the experiment, there will be a orientation on 11-25-2024.",Experiment,11-25-2024,orientation
+John,The orientation is happening on no specific date regarding the document.,Document,NULL,orientation
+James,"During the task, there will be a discussion on no specific date.",Task,NULL,discussion
+Emma,A catch-up is set to occur on 07-14-2024 related to the homework.,Homework,07-14-2024,catch-up
+Sarah,"During the research, there will be a standup on 10-11-2024.",Research,10-11-2024,standup
+Olivia,A conference is set to occur on 09-01-2024 related to the homework.,Homework,09-01-2024,conference
+David,The alignment is happening on 10-27-2024 regarding the document.,Document,10-27-2024,alignment
+Isabella,session regarding the assignment is expected on 02-03-2025.,Assignment,02-03-2025,session
+Emma,A webinar is set to occur on 11-03-2025 related to the assignment.,Assignment,11-03-2025,webinar
+Ethan,The testing is happening on 11-23-2024 regarding the draft.,Draft,11-23-2024,testing
+David,orientation regarding the analysis is expected on no specific date.,Analysis,NULL,orientation
+John,A webinar is set to occur on 03-01-2024 related to the proposal.,Proposal,03-01-2024,webinar
+Alice,The presentation is planned for 04-05-2024 during the plan.,Plan,04-05-2024,presentation
+Emma,The huddle is planned for no specific date during the paper.,Paper,NULL,huddle
+Olivia,meeting regarding the deliverable is expected on no specific date.,Deliverable,NULL,meeting
+Emma,implementation regarding the plan is expected on 03-22-2024.,Plan,03-22-2024,implementation
+Olivia,The briefing is happening on no specific date regarding the presentation.,Presentation,NULL,briefing
+Emma,alignment regarding the research is expected on 12-08-2024.,Research,12-08-2024,alignment
+John,A discussion is set to occur on 05-25-2025 related to the draft.,Draft,05-25-2025,discussion
+Liam,The alignment is happening on no specific date regarding the plan.,Plan,NULL,alignment
+Sophia,The brainstorm is planned for 12-06-2025 during the plan.,Plan,12-06-2025,brainstorm
+Emma,webinar regarding the draft is expected on 01-25-2025.,Draft,01-25-2025,webinar
+Liam,session regarding the project is expected on no specific date.,Project,NULL,session
+Sophia,A training is set to occur on 12-12-2025 related to the draft.,Draft,12-12-2025,training
+Chris,The brainstorm is planned for 06-05-2025 during the deliverable.,Deliverable,06-05-2025,brainstorm
+Sarah,webinar regarding the research is expected on 08-02-2024.,Research,08-02-2024,webinar
+Ethan,The workshop is planned for no specific date during the task.,Task,NULL,workshop
+David,The deployment is happening on 04-19-2024 regarding the research.,Research,04-19-2024,deployment
+Chris,The training is planned for 10-18-2024 during the experiment.,Experiment,10-18-2024,training
+Olivia,implementation regarding the homework is expected on 07-11-2024.,Homework,07-11-2024,implementation
